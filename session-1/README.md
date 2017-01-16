@@ -99,7 +99,7 @@ Question:
 
 ##  Demonstration of tools used on Data 
 
-* Example - NSE Data  crunching using Plain Python and Pandas library, plot the graph
+* Example - Find out Highest NSE Index value day from 2016. Use Pandas library
 
 ```
 >>> df = pd.read_csv("nse_data.csv", index_col=0)
