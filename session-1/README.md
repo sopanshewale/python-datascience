@@ -16,8 +16,8 @@ Question:
 #### Structured Data 
 
 * Multi-dimensional Arrays 
-** Tabular, Spreadsheet like Data 
-** Each column may have different type of data (strings, numbers, dates) 
+ * Tabular, Spreadsheet like Data 
+ * Each column may have different type of data (strings, numbers, dates) 
 * Multiple Data Tables - (interrelated by key columns) (SQL Database) 
 * Time Series 
 
