@@ -1,5 +1,14 @@
 # Session 1. Introduction to Course 
 
+This course help you learn Python Programming Language. This is definitely not Tutorial.  
+This is a carefully designed course that will train you to develop real life applications with Python.
+
+All the sessions will demonstrate you real world code examples. The course has lot of quizzes, exercises, and projects.
+This course makes sure you are able to think Python, and design and build real world applications useful for Data Science.
+
+By the end of course - you will have enough skills to actually build real world Data Science Applications. 
+ 
+
 
 
 ## What is Data? 
