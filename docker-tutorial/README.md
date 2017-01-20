@@ -1,6 +1,7 @@
 # Docker Tutorial 
 
-This is very short tutorial to get started with Docker & Start Coding for this Python Course
+This is very short tutorial to get started with Docker and Start Coding using Python Programming. 
+This Tutorial is documented only for the purpose of current course.  
 
 ## What is Container? 
 
@@ -20,8 +21,9 @@ by using containers.
 
 ## How to Install Docker? 
 
-Please refer to official Documentation - https://docs.docker.com/engine/installation/ 
-For Windows - you need to download .msi file from https://docs.docker.com/docker-for-windows/. The installation is driven by easy GUI. 
+Please refer to [official Documentation](https://docs.docker.com/engine/installation/)
+ 
+For Windows - you need to download .msi file from [https://docs.docker.com/docker-for-windows/](https://docs.docker.com/docker-for-windows/). The installation is driven by easy GUI. 
 
 You should be able to see output similar to following after successful installation: 
 
@@ -56,8 +58,8 @@ $docker run -d  -p 8888:8888 --name jupyter -v /Users/sopanshewale/datascience:/
 
 ```
 
-Here "-p 8888:8888" is just forwarding 8888 port from container to 8888 port of host machine.  "/Users/sopanshewale/datascience/" directory from 
-host machine is mounted on "/datascience" in container 
+Here **"-p 8888:8888"** is just forwarding **8888** port from container to 8888 port of host machine.  **"/Users/sopanshewale/datascience/"** directory from 
+host machine is mounted on **"/datascience"** in container 
 
 ### Connect to Instance
 
@@ -92,7 +94,7 @@ root@bf9fe188724d:/# jupyter notebook --ip=0.0.0.0 --notebook-dir=/datasciecne
 ```
 
 
-So you can access Jupyter Notebook on Host Machine at - http://localhost:8888?token=1c098aa05aa6f15fd263ce5efec32d8edbc0f81bc8b55b72
+So you can access Jupyter Notebook on Host Machine at - **http://localhost:8888?token=1c098aa05aa6f15fd263ce5efec32d8edbc0f81bc8b55b72**
 
 
 ### Other Important Commands Frequently Used on Host Machine

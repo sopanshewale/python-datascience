@@ -147,6 +147,6 @@ Date
 
 ### Internet Resources (Blogs, Articles) 
 
-* [Python Site]: https://www.python.org/
-* [Google Python Course]: https://developers.google.com/edu/python/
-* [NUMFOCUS]: http://www.numfocus.org/  
+* [Python Site](https://www.python.org/)
+* [Google Python Course](https://developers.google.com/edu/python/)
+* [NUMFOCUS](http://www.numfocus.org/) 
