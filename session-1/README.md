@@ -142,7 +142,7 @@ Date
 
 ### Books 
 
-* [Head First Python]: http://www.headfirstlabs.com/books/hfpython/ 
+* [Head First Python](http://www.headfirstlabs.com/books/hfpython/)
 * Python for Data Analysis by Wes <nop>McKinney 
 
 ### Internet Resources (Blogs, Articles) 
