@@ -8,6 +8,7 @@ All Sessions are documentated here - each include assignments, code for demonstr
 
 * [Session-1](session-1/README.md)
 * [Short Tutorial to use Docker Container](docker-tutorial/README.md)
+* [Session-2](session-2/README.md) - Python: Basic Concepts, Data Types, Lists, Loops & Decision Making, List/String - slicing/dicing 
 
 
 
