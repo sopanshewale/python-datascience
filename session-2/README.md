@@ -1,7 +1,40 @@
 #Python Basics 
 
 ---
-[TOC]
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [Python Basics](#)
+	- [Hello Programming](#)
+		- [Demonstration](#)
+		- [Demonstration](#)
+		- [Quiz](#)
+	- [Comments](#)
+		- [Demonstrate Script](#)
+	- [Mathematics](#)
+		- [Demonstrate Script](#)
+		- [Quiz](#)
+	- [Variables & Types](#)
+		- [Demonstrate Script](#)
+		- [Quiz](#)
+	- [Making Decisions](#)
+		- [Demonstrate Scripts](#)
+	- [Basic Operators](#)
+	- [Strings](#)
+		- [Operations on Strings](#)
+		- [Demonostration](#)
+	- [Lists](#)
+		- [Demonstration](#)
+		- [for & while loop](#)
+		- [Demonstration](#)
+		- [Operations](#)
+		- [Quiz](#)
+	- [Tuples](#)
+		- [Demonstration](#)
+	- [More on Lists](#)
+		- [Accessing Lists](#)
+		- [Looping Over the Lists](#)
+		- [Other important Operations](#)
+		- [Quiz](#)
 
 ---
 
