@@ -85,12 +85,12 @@ in muliple lines
 Python is perfectly suited to do Mathematics. 
 * addition *+*
 * subtraction *-*
-* multiplication *****
+* multiplication *
 * division  */*
 
 There is also support for more advanced operations such as:
 
-* Exponentiation ******
+* Exponentiation **
 * Modulo:  *%* 
 
 
