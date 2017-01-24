@@ -1,7 +1,9 @@
 #Python Basics 
 
 ---
+[TOC]
 
+---
 
 ## Hello Programming 
 
