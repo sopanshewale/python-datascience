@@ -41,18 +41,17 @@ print ("I am first line\nI am second line")
 * Q1.  Which of the following statement is true about Docker? 
    * 1 "docker ps" shows all containers by default
    * 2 "docker ps" shows all running containers by default"
-
 * Q. 2.  What happens when you run following command? 
 
 ```
 $ docker run -d  -p 8888:8888 --name jupyter -v /Users/sopanshewale/datascience:/datascience -it sopanshewale/jupyter /bin/bash
 ```
+*
    * 1. A prompt from shell of the container will be thrown to you
    * 2. A container is run and exited immediately
    * 3. A container is run in detached mode
    * 4. Docker CLI issues an error 
-
-* Q. How to get help on IPython? 
+* Q. How to get help on IPython? - Brainstorming Session
 
 ## Comments 
 
@@ -86,12 +85,12 @@ in muliple lines
 Python is perfectly suited to do Mathematics. 
 * addition *+*
 * subtraction *-*
-* multiplication ***
+* multiplication *****
 * division  */*
 
 There is also support for more advanced operations such as:
 
-* Exponentiation ****
+* Exponentiation ******
 * Modulo:  *%* 
 
 
