@@ -283,7 +283,7 @@ else:
 
 ### Operations on Strings 
 * Concatenation - *+* 
-* Repetition - asterisk ***
+* Repetition - asterisk *
 
 ### Demonostration 
 * *strings_demo.py* 
@@ -481,7 +481,7 @@ else:
 ```
 ---
 
-* Q. 4. What gets printed? 
+* Q. 5. What gets printed? 
  
 ```
 numbers = [1, 2, 3, 4]
