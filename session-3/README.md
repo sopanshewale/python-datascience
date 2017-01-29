@@ -385,7 +385,7 @@ The use of dotted module names saves the developers of multi-module packages  fr
 Let us assume we have the following directory structure. Here, hello.py  & monotor.py are same modules described in *Module* section, and __init__.py is an empty file:
 
 
-<verbatim>
+```
 
 mypackage
 |-- __init__.py
@@ -394,13 +394,12 @@ mypackage
 
 0 directories, 3 files
 
-</verbatim>
+```
 
 
 *__init__.py* helps Python to treats this directory (*/mypackage*) as package directory.  Let us assume we are working inside directory where *mypackage* directory is located.  
 
-<verbatim>
-
+```
 >>> from mypackage import monitor
 >>> from mypackage import hello
 >>> dir(monitor)
@@ -415,7 +414,7 @@ Filesystem     1K-blocks    Used Available Use% Mounted on
 >>> 
 
 
-</verbatim>
+```
 
 
 Packages help you organise your work, help you share that with others.    As a best practice on naming conviction: packages should  have short, all-lowercase names. Try to avoid using  underscores in the names. 
