@@ -1,3 +1,23 @@
+
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [Session 4 : Python Classes, Defining List Iterators, Regular Expressions](#)
+	- [Review Items](#)
+	- [Objects and Classes](#)
+		- [Demonstrate - my_class.py](#)
+		- [Demonstrate -  my_advance_class.py](#)
+	- [Sorting Objects (Instances)](#)
+		- [Demonstrate -  sort_person.py](#)
+		- [Quiz](#)
+	- [Revisiting Iterators](#)
+		- [Demonstrate - Counter.py](#)
+		- [String Formatings](#)
+		- [Quiz](#)
+	- [Regular Expressions](#)
+		- [Demonstrate - simple_match.py](#)
+		- [Multiple Matches](#)
+			- [Demonstrate  - find_all.py](#)
+
 # Session 4 : Python Classes, Defining List Iterators, Regular Expressions 
 
 ---

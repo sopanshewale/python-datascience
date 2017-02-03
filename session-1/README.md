@@ -1,3 +1,24 @@
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [Session 1. Introduction to Course](#)
+	- [What is Data?](#)
+		- [Structured Data and Unstructured Data](#)
+			- [Structured Data](#)
+	- [What's Data Science for us?](#)
+	- [Why Python?](#)
+		- [History](#)
+		- [Features](#)
+	- [Python 2 vs Python 3](#)
+	- [Community](#)
+	- [Modules  and Tools used for Data Processing](#)
+	- [Where Python can be avoided?](#)
+	- [Goal of the Course](#)
+	- [Course Infrastructure](#)
+	- [Demonstration of tools used on Data](#)
+	- [References](#)
+		- [Books](#)
+		- [Internet Resources (Blogs, Articles)](#)
+
 # Session 1. Introduction to Course 
 
 This course help you learn Python Programming Language. This is definitely not Tutorial.  

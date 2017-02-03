@@ -1,3 +1,36 @@
+
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [Python - Lists, Dictionaries, Functions, Modules, Packages](#)
+	- [Handling Errors](#)
+		- [Demonstration](#)
+		- [How to Handle Exceptions then?](#)
+			- [Error Handling:](#)
+			- [Closing time operation:](#)
+	- [Lists](#)
+		- [Iterators](#)
+			- [Demonstration](#)
+		- [Comprehensions](#)
+			- [Demonstration](#)
+	- [Dictionaries](#)
+		- [Demonstration](#)
+		- [Methods on Dictionaries](#)
+		- [Quiz](#)
+	- [Functions](#)
+		- [Defining Functions](#)
+		- [Demonstration](#)
+		- [Quiz](#)
+	- [Modules](#)
+		- [Demonstrate](#)
+		- [Introduce sys module](#)
+			- [Quiz](#)
+			- [Demonstrate](#)
+		- [Modules as Scripts](#)
+	- [Packages](#)
+		- [Demonstrate](#)
+		- [Quiz](#)
+
+
 #Python - Lists, Dictionaries, Functions, Modules, Packages
 ---
 
