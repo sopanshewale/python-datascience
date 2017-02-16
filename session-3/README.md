@@ -190,6 +190,7 @@ Similar stuff exists in Python
 
 ```
 #!/usr/bin/python3
+# 'comprehension.py'
 
 s = [x**2 for x in range(10)]
 
@@ -227,6 +228,8 @@ And look at another code:
 ```
 # more comprehension_complicated.py 
 #!/usr/bin/python3
+# 'comprehension_complicated.py'
+
 noprimes = [j for i in range(2, 8) for j in range(i*2, 50, i)]
 
 print ("-----------I")
@@ -253,7 +256,7 @@ Look at the output:
 Look at another interesting problem: 
 ```
 #!/usr/bin/python3
-
+# 'comprehension_interesting.py'
 words = 'The quick brown fox jumps over the lazy dog'.split()
 print ("------------------I")
 print (words)
@@ -287,41 +290,6 @@ You will get following output:
 ['DOG', 'dog', 3]
 
 ```
-
-## Dictionaries
-
-Also known as: 
-* *Associate Array*
-* *Map*
-* *Hash Map*
-* *Unordered Map*
-
-### Demonstration 
-* *dictionaries.py* 
-
-### Methods on Dictionaries 
-
-* d.clear()
-* d.copy()
-* del k[d]
-* dict.fromkeys(seq[, value])   (*demonstrate* - fromkeys.py) 
-* iteration/accessing elements of dictionaries 
-** for key in my_dictionary: 
-** for key, value in my_dictionary.items():
-** for value in my_dictionary.values():
-** iter(d) - works very well 
-** len(d)
-** d.keys()
-** d.values()
-** d.items()
-Also - discuss adding new entry into dictionary 
-
-
-### Quiz
-
-* Create a List - "A"
-* List may have repeated elements 
-* Create new "B", which has same element from "A" but all elements of "B" are Unique Elements 
 
 ## Functions
 
@@ -369,7 +337,40 @@ def functionname( parameters ):
 ```
 ### Demonstration 
 * function_hello.py* 
+
+```
+#!/usr/bin/python3
+
+name = "Aegis"
+
+def hellofunction(name=None):
+    '''hello function'''
+    if name:
+       print ("Hello " + name )
+    else: 
+      print ("Hello World!")
+
+#hellofunction(name)
+hellofunction()
+
+```
+
 * function_dec2binary.py* 
+
+```
+#!/usr/bin/python3
+def decToBin(n):
+    if n==0: 
+         return '0'
+    else:
+        return decToBin(int(n/2)) + str(n%2)
+
+d = decToBin(12)
+
+print (d)
+
+
+```
 
 
 ### Quiz 

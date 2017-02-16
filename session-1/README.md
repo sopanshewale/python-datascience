@@ -21,30 +21,23 @@
 
 # Session 1. Introduction to Course 
 
-This course help you learn Python Programming Language. This is definitely not Tutorial.  
-This is a carefully designed course that will train you to develop real life applications with Python.
+This course helps you learn enough skills from Python Programming Language to develop tools required for Data Science. This is definitely not Tutorial. This is a carefully designed course that will groom you to develop real life applications with Python.
 
 All the sessions will demonstrate you real world code examples. The course has lot of quizzes, exercises, and projects.
 This course makes sure you are able to think Python, and design and build real world applications useful for Data Science.
-
-By the end of course - you will have enough skills to actually build real world Data Science Applications. 
- 
 
 
 
 ## What is Data? 
 
-Interaction with the candidates 
+TODO: Interaction with the candidates 
 
 ### Structured Data and Unstructured Data 
 
 
 Examples: 
-* Jr KG Children Result ( any menaing to: Your child is exceptionaly good at counting) - Unstructured Data 
+* Jr KG Children Result (is therey any menaing to? Your child is exceptionaly good at counting) - Unstructured Data 
 * Xth Class Result (Mathematics - 97 marks) - Structured Data 
-
-Question: 
-
 
 #### Structured Data 
 
@@ -53,8 +46,6 @@ Question:
  * Each column may have different type of data (strings, numbers, dates) 
 * Multiple Data Tables - (interrelated by key columns) (SQL Database) 
 * Time Series 
-
-Examples: 
 
 
 ## What's Data Science for us? 
@@ -79,7 +70,7 @@ so many reasons - brainstorming with students
 * Python 2.0 was released in  2000  (currently we have 2.7.x)   
 * Python 3.0 was released in 2008  (currently we have 3.5.x) 
 
-Open Discussion with Students 
+TODO: Open Discussion with Students 
 
 ### Features
 
@@ -96,7 +87,7 @@ Stackoverflow helps a lot
 Documentation  - on Python.org site
 
 
-## Modules  and Tools used for Data Processing 
+## Modules and Tools used for Data Processing 
 * NumPy 
 * Pandas 
 * SciPy 

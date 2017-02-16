@@ -43,7 +43,7 @@
 * Talk about Docker - verify everyone is able to run Python Interpreter
 * IPython 
 * Jupyter
-*  File vs Interactive vs Web 
+* File vs Interactive vs Web 
 * Hello Python
 
 ### Demonstration
@@ -81,12 +81,13 @@ print ("I am first line\nI am second line")
 ```
 $ docker run -d  -p 8888:8888 --name jupyter -v /Users/sopanshewale/datascience:/datascience -it sopanshewale/jupyter /bin/bash
 ```
-*
-   * 1. A prompt from shell of the container will be thrown to you
-   * 2. A container is run and exited immediately
-   * 3. A container is run in detached mode
-   * 4. Docker CLI issues an error 
-* Q. How to get help on IPython? - Brainstorming Session
+* 1. A prompt from shell of the container will be thrown to you
+* 2. A container is run and exited immediately
+* 3. A container is run in detached mode
+* 4. Docker CLI issues an error 
+
+
+TODO - with students:  How to get help on IPython? - Brainstorming Session
 
 ## Comments 
 
@@ -153,11 +154,13 @@ print(18 % 7)
 ### Quiz
 
 Suppose you have Rs 1000, which you can invest with a 10% return each year. 
+
 After one year, it's 1000×1.1=1100
+
 After two years it's 1000×1.1×1.1= 1210
 
-How much money you end up with after 5 years? 
-How much money you end up earning after 10 years? 
+* How much money you end up with after 5 years? 
+* How much money you end up earning after 10 years? 
 
 
 ## Variables & Types 
