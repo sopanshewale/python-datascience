@@ -450,14 +450,14 @@ for match in re.finditer(pattern, text):
 |\W|non-alphanumeric|
 
 
-### Mostly used functions from re module,
+## Mostly used functions from re module,
 
 * compile(pattern, flags=0) – it compiles a regular expression pattern into a regular expression object, which can be used for matching using the match and search methods.
 * match(pattern, string, flags=0) – if zero or more characters from the beginning of the string match, it returns a Match object, otherwise, it returns None.
 * search(pattern, string, flags=0)  – similar to match(), but it scans all the string, not only it’s beginning.
 * sub(pattern, repl, string, count=0, flags=0) -  Return the string obtained by replacing the leftmost non-overlapping occurrences of the pattern in string by the replacement repl.  repl can be either a string or a callable; if a string, backslash escapes in it are processed.  If it is a callable, it's passed the match object and must return a replacement string to be used.
 
-### Demostrate on *sub*
+## Demostrate on *sub*
 
 ```
 #!/usr/bin/python3
@@ -478,21 +478,21 @@ How about following expression?
 re.sub('\s{2,}', ' ', line)
 ```
 
-### Quiz 
+## Quiz 
    * Remove starting spaces in line
    * Remove ending spaces in line
    * How about removing all digits from line? 
 
-### References
+## References
 * https://doughellmann.com/presentations/regexes-fear/#/ 
 * Book - 
 
 
-## TODO 
+# TODO 
 * passing options like - case insensitive 
 * Multiple Lines Matching 
 
-## Next TODO
+# Next TODO
 Working with Files, Directories
 Dealing with Databases
 Downloading Files from  - from internet
