@@ -1,3 +1,42 @@
+
+
+Enter Url that contains markdown file:
+https://github.com/sopanshewale/python-datascience/tree/master/session-5
+GO
+Paste below generated content at the top of your markdown file:
+
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [Modules as Scripts](#)
+	- [Demonstration](#)
+- [Packages](#)
+	- [Objects and Classes](#)
+		- [Demonstrate - my_class.py](#)
+		- [Demonstrate -  my_advance_class.py](#)
+	- [Sorting Objects (Instances)](#)
+		- [Demonstrate -  sort_person.py](#)
+		- [Quiz](#)
+- [Revisiting Iterators](#)
+	- [Demonstrate - Counter.py](#)
+- [String Formatings](#)
+	- [Demonstration](#)
+	- [Quiz](#)
+- [Reference -](#)
+- [Regular Expressions](#)
+	- [Demonstrate - simple_match.py](#)
+	- [Multiple Matches](#)
+		- [Demonstrate  - find_all.py](#)
+	- [A Few Rules: Commonly Used RegEx symbols](#)
+	- [Matching Codes](#)
+	- [Mostly used functions from re module,](#)
+	- [Demostrate on sub](#)
+	- [Quiz](#)
+	- [References](#)
+- [TODO](#)
+- [Next TODO](#)
+
+---
+
 # Modules as Scripts
 
 A script is executable of code, run by itself. 
