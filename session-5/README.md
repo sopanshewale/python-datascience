@@ -441,6 +441,7 @@ for match in re.finditer(pattern, text):
 ## Matching Codes 
 
 |Code|Meaning|
+|---|---|
 |\d|a digit|
 |\D|a non-digit|
 |\s|whitespace (tab, space, newline, etc.)|
