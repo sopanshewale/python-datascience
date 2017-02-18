@@ -425,6 +425,7 @@ for match in re.finditer(pattern, text):
 ## A Few Rules: Commonly Used RegEx symbols 
 
 | symbol | Meaning | Example Pattern | Example Matches| 
+|---|---|---|---|
 |*| Matches Preceding Char, Subexpression, or bracked char 0 or more times | a*b* | aaaaaa, aaabbbb, bbbb|
 |+| Matches Preceding Char, Subexpression, or bracked char 1 or more times | a+b+ | aaaaab, aaabbbb, abbbb|
 |[] | Matches any char within bracket |[A-Z]*| APPLE, CAPITAL, |
