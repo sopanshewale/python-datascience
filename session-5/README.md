@@ -30,7 +30,7 @@ def disk (partition="/"):
 Look at following execution of Module: 
 
 ```
-root@2fcbde9f3802:/datascience/sessions/five# python3
+# python3
 Python 3.5.2 (default, Nov 17 2016, 17:05:23) 
 [GCC 5.4.0 20160609] on linux
 Type "help", "copyright", "credits" or "license" for more information.
@@ -180,14 +180,14 @@ print  (sorted_presidents)
 * How about adding GDP - and sort by GDP? 
 
 
-## Revisiting Iterators
+# Revisiting Iterators
 
 Python iterator objects are required to support two methods while following the iterator protocol.
 
 * *__iter__* returns the iterator object itself. This is used in for and in statements.
 * *__next__* method returns the next value from the iterator. If there is no more items to return then it should raise <nop>StopIteration exception.
 
-### Demonstrate - Counter.py
+## Demonstrate - Counter.py
 
 ```
 # Counter.py 
@@ -249,7 +249,7 @@ print (next(e))
 
 ```
 
-## String Formatings 
+# String Formatings 
 
 Python supports string formatting. 
 
@@ -262,7 +262,7 @@ The "%" operator is used to format a set of variables enclosed in a "tuple" (a f
 * %.<number of digits>f - Floating point numbers with a fixed amount of digits to the right of the dot.
 * %x/%X - Integers in hex representation (lowercase/uppercase)
 
----+++ Demonstration 
+## Demonstration 
 
 ```
 
@@ -301,7 +301,7 @@ The person details are : Name: Donald Age: 80
 
 ```
 
-### Quiz
+## Quiz
 
 * Create class called "Share"
 * Attributes to the "Share" are: opening price, maximum price, closing price, minimum price, date field (string at this moment)
