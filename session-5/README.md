@@ -524,17 +524,4 @@ re.sub('\s{2,}', ' ', line)
 
 ## References
 * https://doughellmann.com/presentations/regexes-fear/#/ 
-* Book - 
-
-
-# TODO 
-* passing options like - case insensitive 
-* Multiple Lines Matching 
-
-# Next TODO
-Working with Files, Directories
-Dealing with Databases
-Downloading Files from  - from internet
-Working with Archive Files
-Working with TXT and CSV Files
-
+* Book: Mastering Regular Expressions by Jeffrey Friedl  https://books.google.co.in/books/about/Mastering_Regular_Expressions.html?id=GX3w_18-JegC 
