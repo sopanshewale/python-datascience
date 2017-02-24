@@ -1,5 +1,16 @@
 
-# Session 4 : Python Classes, Defining List Iterators, Regular Expressions 
+# Session 4 : Dictionaries, Modules 
+
+---
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [Session 4 : Dictionaries, Modules](#)
+	- [Dictionaries](#)
+		- [Demonstration](#)
+		- [Methods on Dictionaries](#)
+		- [Quiz](#)
+	- [Modules](#)
+		- [Demonstrate](#)
 
 ---
 
@@ -138,3 +149,5 @@ MODULE REFERENCE
 .    
 
 ```
+---
+
