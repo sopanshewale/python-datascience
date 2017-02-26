@@ -1,3 +1,13 @@
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [Interacting with Data](#)
+	- [JSON](#)
+		- [Demonstrate](#)
+	- [Interacting with Files](#)
+		- [Open() function](#)
+	- [Getting data from Internet](#)
+		- [Demonstrate](#)
+
 # Interacting with Data 
 
 * Every software tool deals with the data
