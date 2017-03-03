@@ -177,7 +177,7 @@ bmi = np_weight_kg / np_height_m ** 2
 
 # Print out light
 
-# Print out BMIs of all baseball players whose BMI is below 21
+# Print out BMIs of all runners whose BMI is below 21
 
 ```
 
