@@ -138,3 +138,58 @@ array([False, False,  True,  True], dtype=bool)
 
 ```
 
+# sumarize pandas
+
+## Initial Setup 
+
+```
+>>> import pandas
+>>> import numpy
+>>> import matplotlib.pyplot
+
+```
+## Object Creation 
+
+```
+>>> s = pandas.Series([1, 3, 5, numpy.nan, 6, 8])
+>>> s
+0    1.0
+1    3.0
+2    5.0
+3    NaN
+4    6.0
+5    8.0
+dtype: float64
+>>> 
+
+```
+>>> dates = pandas.date_range('20170423', periods=7)
+>>> dates
+DatetimeIndex(['2017-04-23', '2017-04-24', '2017-04-25', '2017-04-26',
+               '2017-04-27', '2017-04-28', '2017-04-29'],
+              dtype='datetime64[ns]', freq='D')
+>>> 
+
+```
+
+>>> df = pandas.DataFrame(numpy.random.randn(7, 4), index = dates, columns={'dog', 'cat', 'mouse', 'duck'})
+>>> df
+                 cat      duck       dog     mouse
+2017-04-23 -1.381724  0.178933 -1.880095  0.604224
+2017-04-24  0.148233  0.208181  1.053822  0.572317
+2017-04-25 -0.887622 -0.035946 -0.825040 -0.888943
+2017-04-26  0.414216  0.157248  0.362521 -0.046662
+2017-04-27 -1.775645  0.963451 -0.738962 -2.055655
+2017-04-28 -1.356239 -0.348149  0.395081  2.154426
+2017-04-29  0.096746  0.469730  0.286362  1.369842
+>>> 
+
+```
+
+From Dictionaries 
+
+```
+
+
+
+
