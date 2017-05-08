@@ -13,32 +13,32 @@ Topics covered in most of the branches are:
 
 
 * Introduction
- * Hello Python
- * Comments 
- * Mathematics
- * Variables
- * Data Types
+  * Hello Python
+  * Comments 
+  * Mathematics
+  * Variables
+  * Data Types
 * Python Lists
 * Python Strings
 * Loops, Handling Conditions
 * Handling Errors
 * Python Functions
 * Module Development 
- * Understanding a few Important Modules - sys
+  * Understanding a few Important Modules - sys
 * Package Development 
 * Developing Classes
 * Iterators 
 * Regular Expressions
 * Dealing with Input and Output
- * Files and Directories
- * Getting Data from Internet 
- * Database 
+  * Files and Directories
+  * Getting Data from Internet 
+  * Database 
   * Introduction to SQLite 
   * Groupby etc 
 * Data Science Libraries
- * Numpy 
- * Pandas
- * Dealing with Data 
- * Handling Missing Data
- * Merging Data Sets, Grouping them 
+  * Numpy 
+  * Pandas
+  * Dealing with Data 
+  * Handling Missing Data
+  * Merging Data Sets, Grouping them 
 
