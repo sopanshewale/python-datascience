@@ -13,7 +13,7 @@ Topics covered in most of the branches are:
 
 
 * Introduction
-** Hello Python
+..* Hello Python
 ** Comments 
 ** Mathematics
 ** Variables
