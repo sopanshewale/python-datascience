@@ -1,0 +1,31 @@
+
+---++ Revision of Lists
+
+* For loop, while loop?
+* Practice Questions 
+* Comprehension 
+   * input? 
+
+Assignment 
+[1] Quartile 
+[2] printing alternative string elements 
+
+Handling Errors 
+
+10, 11, 12, 1 - 4 hts (50 slides)  
+2, 3, 4, 5, 6  - 5 hrs (50 slides) 
+
+lamda
+map
+filter
+
+database - group, joins etc
+pandas - joins, merge etc 
+talk about some application log 
+
+How about talking about "datetime" module here itself? 
+How about talking about opsparser module? 
+How about talking about logging module? 
+Talk about Regular Expression Module? 
+
+
