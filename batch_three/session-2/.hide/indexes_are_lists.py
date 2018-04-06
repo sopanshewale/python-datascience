@@ -11,7 +11,8 @@ for i in range(number):
        tmp.append(1)
     else: 
         for j in range(1,i+1):
-           tmp.append(j)
+           if i % j == 0:
+               tmp.append(j)
     my_list.append(tmp)
 
 
