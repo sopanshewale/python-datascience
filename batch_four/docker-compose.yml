@@ -1,0 +1,12 @@
+jupyter:
+  restart: always
+  build: ./jupyter
+  expose:
+    - "8888"
+  ports:
+    - "8888:8888"
+  volumes:
+    - /usr/src/app
+    - /usr/src/app/static
+  env_file: .env
+
