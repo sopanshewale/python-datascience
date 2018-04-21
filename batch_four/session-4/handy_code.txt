@@ -1,0 +1,121 @@
+
+-------------------->8<-----------------
+def foo():
+    try:
+       return 1
+    finally:
+        return 2
+k = foo()
+print (k)
+
+-------------------->8<-----------------
+
+def printMax(a, b):
+    if a> b: 
+       print ("{} is maximum".format(a))
+    elif a==b:
+       print ("{} is equal to {}".format(a, b))
+    else:
+       print ("{} is maximum".format(b))
+
+-------------------->8<-----------------
+
+def func(a, b=5, c=10):
+    print ("a is {}, b is {} and c is {}".format(a, b, c))
+
+func(3, 7)
+func(25, c=24)
+func(c=50, a=100)
+-------------------->8<-----------------
+
+
+import hello_module
+help(hello_module)
+
+dir(hello_module)
+
+from hello_module import goodbye
+help(goodbye)
+
+goodbye()
+-------------------->8<-----------------
+
+
+from mypackage import hello_module
+from mypackage import monitor
+dir(monitor)
+dir(hello_module)
+hello_module.helloworld()
+monitor.disk()
+-------------------->8<-----------------
+
+
+f = lambda a, b, c: a*b+c
+f(3, 4, 5)
+y = lambda m, n: m**n
+y(2,5)
+
+-------------------->8<-----------------
+
+my_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+output_list = filter(lambda x: x>5, my_list)
+type(output_list)
+list(output_list)
+
+
+
+
+-------------------->8<-----------------
+my_list = [1, 5, 7, 8, 11]
+output_list = map(lambda x: x*x, my_list)
+type(output_list)
+list(output_list)
+
+-------------------->8<-----------------
+
+sentence = "the quick brown fox jumps over the lazy dog"
+words = sentence.split()
+words_length = [len(word) for word in words if word!="the"]
+print(words_length)
+
+-------------------->8<-----------------
+
+y=6
+z = lambda x: x*y
+print (z(8))
+
+-------------------->8<-----------------
+
+
+d = lambda x: x * 5
+e = lambda x: x * 2
+x = d(2)
+x = e(x)
+x = d (x * x)
+
+print (x)
+
+
+-------------------->8<-----------------
+
+a = range(2, 9)
+x = map(lambda x, y: x ** y, a, reversed(a))
+
+a = range(2, 9)
+a_map = map(lambda x, y: x + y, a, reversed(a))
+
+-------------------->8<-----------------
+
+def writer():
+     title  = 'Sir'
+     name = (lambda x: title + ' ' + x)
+     return name
+ 
+
+who = writer()
+who("Arthur")
+
+
+-------------------->8<-----------------
+
+
