@@ -1,3 +1,28 @@
+-------------------->8<-----------------
+for i in range(5):
+    with open('data.txt', 'w') as f:
+        f.write("Number: " , i)
+
+
+with open ('data.txt', 'w') as fr:
+   print(fr.read())
+
+-------------------->8<-----------------
+
+$more data.txt
+1
+2
+
+$more script.py 
+
+f = open('data.txt', 'r')
+for i in [100, 200]:
+    f.readline()
+
+for i in [100, 200]:
+    print (f.readline())
+
+
 
 -------------------->8<-----------------
 def foo():
