@@ -32,5 +32,6 @@ features[4]=labels
 for i,color in zip(range(3),"rbg"):
      plt.scatter(features[features[4]==i][0],features[features[4]==i][1],c=color,marker="o")  
  
-plt.show()
+#plt.show()
+plt.savefig('iris.png')
 

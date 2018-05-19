@@ -1,21 +1,22 @@
 #!/usr/bin/python3
 # Task: Complete  Simple Calculator
 
-def add: TODO 
+def add (m, n):
    """This function adds two numbers"""
-   pass TODO
+   return m + n
 
-def subtract: TODO
+
+def subtract(): 
    """This function subtracts two numbers"""
-   pass TODO
+   pass 
 
-def multiply: TODO
+def multiply(): 
    """This function multiplies two numbers"""
-   pass TODO
+   pass 
 
-def divide: TODO
+def divide(): 
    """This function divides two numbers"""
-   pass TODO
+   pass 
 
 # take input from the user
 print("Select operation.")
@@ -29,6 +30,7 @@ choice = input("Enter choice(1/2/3/4):")
 num1 = int(input("Enter first number: "))
 num2 = int(input("Enter second number: "))
 
-#if choice == '1': TODO
-if choice == 1:
+if choice == '1': 
+     answer = add(num1, num2)
+     print (answer)
 
